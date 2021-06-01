@@ -1,0 +1,33 @@
+body{
+    padding: 0px;
+    margin: 0px
+}
+    .content {
+    width:70%;
+    padding:2%  5%;
+        background-color:cornflowerblue;
+        margin-left: 20%;
+        background-image: url(img/dogs/hand-drawn-cute-dogs-pattern-background_35322-179%20.jpg);    
+}
+.content img{
+    width: 100%;
+    margin-bottom: 30px;
+    
+}
+.menu{
+    position: fixed;
+    width: 20%;
+    background-color:darkseagreen;
+    height: 100%;
+}
+.cats{
+    height: 50%;
+}
+.dogs{
+    height: 50%;
+}
+a{
+    text-decoration: none;
+    color:darkred;
+    font-size: 40px;
+}
